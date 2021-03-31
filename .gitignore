@@ -1,0 +1,5 @@
+aux/*
+!aux/.gitkeep
+!pdf/.gitkeep
+_minted-report/
+svg-inkscape/
